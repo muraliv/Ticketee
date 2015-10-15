@@ -12,6 +12,7 @@ gem "font-awesome-rails", "~> 4.3"
 gem "simple_form", "~> 3.1.0"
 gem "devise", "~> 3.4.1"
 gem "pundit", "~> 0.3.0"
+gem "carrierwave", "~> 0.10.0"
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
